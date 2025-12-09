@@ -129,7 +129,7 @@ main img {
     display: block;
     margin: auto;
     border-radius: 15px;
-    min-width: 98%;
+    max-width: 100%;
 }
 
 main .video{
@@ -192,4 +192,5 @@ footer a:hover{
     text-decoration: underline;
     color: var(--cor1);
 }
+
 
